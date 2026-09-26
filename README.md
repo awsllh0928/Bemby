@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="docs/logo.png" width="200" alt="Bemby" />
+<p align="center">  
+  <img src="docs/logo.png" width="200" alt="Bemby" />  
 </p>
 
 # Bemby v1.0.0
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/liveinaus/bemby)](https://hub.docker.com/r/liveinaus/bemby)
-[![更新日志](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E6%9F%A5%E7%9C%8B-blue)](https://github.com/liveinaus/Bemby/blob/main/CHANGELOG.md)
-[![Telegram](https://img.shields.io/badge/Telegram-%E4%BA%A4%E6%B5%81%E7%BE%A4-2CA5E0?logo=telegram&logoColor=white)](https://t.me/cool_bemby)
+![Docker Pulls](https://img.shields.io/docker/pulls/liveinaus/bemby)
+
+![更新日志](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E6%9F%A5%E7%9C%8B-blue)
+
+![Telegram](https://img.shields.io/badge/Telegram-%E4%BA%A4%E6%B5%81%E7%BE%A4-2CA5E0?logo=telegram\&logoColor=white)
 
 [English](#english) | **简体中文**
 
@@ -18,35 +20,34 @@ Bemby可签到市面上所有的服（需要正确配置）。无论是TG内，�
 
 最后请大家支持公益服，切勿滥用，祝大家玩的开心。
 
-<table width="100%">
-  <tr>
-    <td align="center" colspan="3"><img src="docs/accounts.png" alt="账户配置" width="100%" /><br/><sub>账户配置</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3"><img src="docs/jobs.png" alt="任务配置" width="100%" /><br/><sub>任务配置</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%"><img src="docs/rich_content_logs.png" alt="丰富内容日志" width="100%" /><br/><sub>丰富内容日志</sub></td>
-    <td align="center" width="33.33%"><img src="docs/ai_debugging_console.png" alt="AI 调试" width="100%" /><br/><sub>AI 调试</sub></td>
-    <td align="center" width="33.33%"><img src="docs/ai_provider_config.png" alt="AI 设置" width="100%" /><br/><sub>AI 设置</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%"><img src="docs/template-checkin.png" alt="添加签到模版" width="100%" /><br/><sub>添加签到模版</sub></td>
-    <td align="center" width="33.33%"><img src="docs/template-emby-watch.png" alt="添加观看模版" width="100%" /><br/><sub>添加观看模版</sub></td>
-    <td align="center" width="33.33%"><img src="docs/setting-emby-watch-ua.png" alt="观看 UA配置" width="100%" /><br/><sub>观看 UA 配置</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%"><img src="docs/auto-registration.png" alt="抢注" width="100%" /><br/><sub>添加抢注任务</sub></td>
-    <td align="center" width="33.33%"><img src="docs/custom-job.png" alt="自定义任务" width="100%" /><br/><sub>添加自定义任务</sub></td>
-    <td align="center" width="33.33%"><img src="docs/pass-cf-verification.png" alt="过CF 人机验证" width="100%" /><br/><sub>过 CF 人机验证</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%"><img src="docs/web-checkin.png" alt="网页签到" width="100%" /><br/><sub>网页版签到</sub></td>
-    <td align="center" width="33.33%"><img src="docs/lucky-draw.png" alt="抽奖" width="100%" /><br/><sub>抽奖</sub></td>
-    <td align="center" width="33.33%"><img src="docs/pass-nmbot.png" alt="过nmBot" width="100%" /><br/><sub>过nmBot人机</sub></td>
-  </tr>
+<table width="100%">  
+  <tr>  
+    <td align="center" colspan="3"><img src="docs/accounts.png" alt="账户配置" width="100%" />   <sub>账户配置</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" colspan="3"><img src="docs/jobs.png" alt="任务配置" width="100%" />   <sub>任务配置</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="33.33%"><img src="docs/rich_content_logs.png" alt="丰富内容日志" width="100%" />   <sub>丰富内容日志</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/ai_debugging_console.png" alt="AI 调试" width="100%" />   <sub>AI 调试</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/ai_provider_config.png" alt="AI 设置" width="100%" />   <sub>AI 设置</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="33.33%"><img src="docs/template-checkin.png" alt="添加签到模版" width="100%" />   <sub>添加签到模版</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/template-emby-watch.png" alt="添加观看模版" width="100%" />   <sub>添加观看模版</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/setting-emby-watch-ua.png" alt="观看 UA配置" width="100%" />   <sub>观看 UA 配置</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="33.33%"><img src="docs/auto-registration.png" alt="抢注" width="100%" />   <sub>添加抢注任务</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/custom-job.png" alt="自定义任务" width="100%" />   <sub>添加自定义任务</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/pass-cf-verification.png" alt="过CF 人机验证" width="100%" />   <sub>过 CF 人机验证</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="33.33%"><img src="docs/web-checkin.png" alt="网页签到" width="100%" />   <sub>网页版签到</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/lucky-draw.png" alt="抽奖" width="100%" />   <sub>抽奖</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/pass-nmbot.png" alt="过nmBot" width="100%" />   <sub>过nmBot人机</sub></td>  
+  </tr>  
 </table>
-
 
 ---
 
@@ -88,7 +89,7 @@ Bemby可签到市面上所有的服（需要正确配置）。无论是TG内，�
 - **移动端友好** — 响应式布局，侧边栏折叠为汉堡菜单；表格自适应隐藏次要列；弹窗固定于顶部并使用动态视口高度避免被浏览器界面遮挡；任务列表的操作按钮在移动端合并为单一 ⋯ 按钮，点击后从屏幕底部弹出操作菜单
 - **界面状态持久化** — 任务和日志页面的筛选条件、列排序方式在刷新后自动恢复；登录后自动跳回上次访问的页面
 - **Web 管理门户** — Vue 3 单页应用，用于管理账号、任务、设置和查看日志
-- **持久化存储** — SQLite 数据库，重启和容器升级后数据不丢失
+- **持久化存储** — MongoDB 数据库，重启和容器升级后数据不丢失；连接地址在「设置 → 数据库」中填写，也可由 `MONGODB_URI` 环境变量提供
 
 ---
 
@@ -120,18 +121,17 @@ docker run -d \
 
 ---
 
-
 ## 一键部署
 
 不熟悉命令行或 Docker 的用户可通过以下云平台快速部署 Bemby，无需在本地安装任何工具。
 
-> Bemby 使用 SQLite 存储数据。请确认所选平台支持**持久化存储卷**，否则服务重启后数据会丢失。
+> Bemby 使用 MongoDB 存储数据。请提供**一个可持久化的 MongoDB 实例**（托管服务，或挂载了存储卷的自建容器），否则服务重启后数据会丢失。首次启动后到「设置 → 数据库」填写连接地址即可。
 
 ### Railway（推荐）
 
 Railway 支持直接从 Docker Hub 镜像部署，无需 Fork 或连接 GitHub。新账户首月赠送 **$5 免费额度**，无需绑定信用卡，之后每月赠送1 美元。
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/bemby?referralCode=o7RbM-&utm_medium=integration&utm_source=template&utm_campaign=generic)
+![Deploy on Railway](https://railway.com/button.svg)
 
 点击按钮，按以下步骤完成配置：
 
@@ -160,25 +160,26 @@ Railway 支持直接从 Docker Hub 镜像部署，无需 Fork 或连接 GitHub�
 
 进入 **任务** 页面，点击 **添加任务**，配置以下内容：
 
-| 字段                    | 说明                                                              |
-|-------------------------|-------------------------------------------------------------------|
-| 任务名称                | 任务的显示名称                                                     |
-| 任务类型                | `签到`、`Emby 观看` 或 `自定义`                                   |
-| 账号                    | 已认证的 Telegram 账号（仅签到任务）                               |
-| 机器人用户名            | Telegram 机器人 handle，可带或不带 `@`（仅签到任务）              |
-| 启动命令                | 发送给机器人的命令，默认 `/start`；支持模板占位符（仅签到任务）   |
-| 签到按钮文字            | 用于匹配内联键盘按钮的文字，默认 `签到`（仅签到任务）             |
-| 服务器地址              | Emby 服务器地址，如 `https://emby.example.com:443`（仅 Emby 观看）；粘贴含协议和端口的完整 URL 时可自动解析 |
-| Emby 用户名/密码        | Emby 账号凭证（仅 Emby 观看）                                     |
-| 播放时长                | 模拟播放的秒数；实际时长在此基础上随机延长 0–10%（仅 Emby 观看）  |
-| 播放后标记已看          | 播放结束后将该剧集/电影标记为已看（默认开启，仅 Emby 观看）       |
-| 真实观看                | 以真实播放速率直连拉取实际媒体字节，产生真实串流流量；会消耗大量下行流量（仅 Emby 观看） |
-| 顺序播放                | 从上次离开处续播，看完一集自动接着下一集，仅看完整集才标记已看（仅 Emby 观看） |
-| 限定媒体库              | 媒体库名称或序号（从 1 开始）；匹配不到或库内无可播内容时回退到整个服务器（仅 Emby 观看，可不填） |
-| 账号（可选）            | 关联的 Telegram 账号，用于发送成功/失败通知（仅 Emby 观看，可不填）|
-| 时间窗口开始/结束        | 每日执行时间窗口，格式 HHMM，如 `1400`–`1600`                    |
-| 每隔多少天执行          | 执行间隔天数，填数字（如 `7`）或范围（如 `7-15`）；范围会在每次排程时随机取一个天数 |
-| 最大重试次数            | 失败时的重试次数                                                   |
+| 字段          | 说明                                                                            |
+| ----------- | ----------------------------------------------------------------------------- |
+| 任务名称        | 任务的显示名称                                                                       |
+| 任务类型        | `签到`、`Emby 观看` 或 `自定义`                                                        |
+| 账号          | 已认证的 Telegram 账号（仅签到任务）                                                       |
+| 机器人用户名      | Telegram 机器人 handle，可带或不带 `@`（仅签到任务）                                          |
+| 启动命令        | 发送给机器人的命令，默认 `/start`；支持模板占位符（仅签到任务）                                          |
+| 签到按钮文字      | 用于匹配内联键盘按钮的文字，默认 `签到`（仅签到任务）                                                  |
+| 服务器地址       | Emby 服务器地址，如 `https://emby.example.com:443`（仅 Emby 观看）；粘贴含协议和端口的完整 URL 时可自动解析 |
+| Emby 用户名/密码 | Emby 账号凭证（仅 Emby 观看）                                                          |
+| 播放时长        | 模拟播放的秒数；实际时长在此基础上随机延长 0–10%（仅 Emby 观看）                                        |
+| 播放后标记已看     | 播放结束后将该剧集/电影标记为已看（默认开启，仅 Emby 观看）                                             |
+| 真实观看        | 以真实播放速率直连拉取实际媒体字节，产生真实串流流量；会消耗大量下行流量（仅 Emby 观看）                               |
+| 顺序播放        | 从上次离开处续播，看完一集自动接着下一集，仅看完整集才标记已看（仅 Emby 观看）                                    |
+| 限定媒体库       | 媒体库名称或序号（从 1 开始）；匹配不到或库内无可播内容时回退到整个服务器（仅 Emby 观看，可不填）                         |
+| 账号（可选）      | 关联的 Telegram 账号，用于发送成功/失败通知（仅 Emby 观看，可不填）                                    |
+| 时间窗口开始/结束   | 每日执行时间窗口，格式 HHMM，如 `1400`–`1600`                                              |
+| 每隔多少天执行     | 执行间隔天数，填数字（如 `7`）或范围（如 `7-15`）；范围会在每次排程时随机取一个天数                               |
+| 最大重试次数      | 失败时的重试次数                                                                      |
+
 
 调度器每天在时间窗口内随机选取执行时间，并自动错开各任务（最小间隔可在设置中调整，默认 2 分钟）。若保存任务时当日窗口已过，则顺延至次日。
 
@@ -217,10 +218,10 @@ cd Bemby
 
 首次运行时，`dev.sh` 会将 `env.example` 复制为 `backend/.env`，并在占位符值未修改时发出警告。
 
-| 服务     | 默认地址                      |
-|----------|-------------------------------|
-| 前端     | http://localhost:5173         |
-| 后端     | http://localhost:3000         |
+| 服务 | 默认地址                    |
+| -- | ----------------------- |
+| 前端 | <http://localhost:5173> |
+| 后端 | <http://localhost:3000> |
 
 使用 `backend/.env` 中配置的账号登录（默认 `admin` / `changeme`）。
 
@@ -235,7 +236,10 @@ bemby/
 │       ├── server.ts          -- Express 入口
 │       ├── scheduler.ts       -- 基于 setTimeout 的任务调度器
 │       ├── db/
-│       │   └── database.ts    -- SQLite 初始化和迁移
+│       │   ├── database.ts    -- 数据层入口
+│       │   ├── mongo/         -- MongoDB 连接、索引、自增 id、SQLite 一次性导入
+│       │   ├── bootstrap.ts   -- 默认设置与启动时的数据修复
+│       │   └── repos/         -- 各集合的读写仓储
 │       ├── jobs/
 │       │   ├── runner.ts      -- 任务分发与重试
 │       │   ├── checkin.ts     -- Telegram MTProto 签到逻辑
@@ -348,15 +352,17 @@ Bemby 仅供个人自动化和学习目的使用。请负责任地使用，并�
 
 <a name="english"></a>
 
-<p align="center">
-  <img src="docs/logo.png" width="200" alt="Bemby" />
+<p align="center">  
+  <img src="docs/logo.png" width="200" alt="Bemby" />  
 </p>
 
 ## English
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/liveinaus/bemby)](https://hub.docker.com/r/liveinaus/bemby)
-[![Changelog](https://img.shields.io/badge/changelog-view-blue)](CHANGELOG.md)
-[![Telegram](https://img.shields.io/badge/Telegram-community-2CA5E0?logo=telegram&logoColor=white)](https://t.me/cool_bemby)
+![Docker Pulls](https://img.shields.io/docker/pulls/liveinaus/bemby)
+
+![Changelog](https://img.shields.io/badge/changelog-view-blue)
+
+![Telegram](https://img.shields.io/badge/Telegram-community-2CA5E0?logo=telegram\&logoColor=white)
 
 [简体中文](#bemby-v100) | **English**
 
@@ -366,36 +372,37 @@ A self-hosted automation tool for managing daily Telegram bot check-ins (签到)
 
 **Bemby can check in to every server out there**, given the right configuration: inside Telegram, on a web page, in a Mini App, or behind a question to answer or a captcha to solve. Bemby also ships a complete web Telegram client, with bulk group joining, subscribing, lucky draws and plenty more to discover. Thanks to everyone in the community group for their suggestions, feedback and testing.
 
-<table width="100%">
-  <tr>
-    <td align="center" colspan="3"><img src="docs/accounts.png" alt="Account configuration" width="100%" /><br/><sub>Account configuration</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3"><img src="docs/jobs.png" alt="Job configuration" width="100%" /><br/><sub>Job configuration</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%"><img src="docs/rich_content_logs.png" alt="Rich content logs" width="100%" /><br/><sub>Rich content logs</sub></td>
-    <td align="center" width="33.33%"><img src="docs/ai_debugging_console.png" alt="AI debug console" width="100%" /><br/><sub>AI debug console</sub></td>
-    <td align="center" width="33.33%"><img src="docs/ai_provider_config.png" alt="AI provider settings" width="100%" /><br/><sub>AI provider settings</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%"><img src="docs/template-checkin.png" alt="Add check-in template" width="100%" /><br/><sub>Add check-in template</sub></td>
-    <td align="center" width="33.33%"><img src="docs/template-emby-watch.png" alt="Add Emby Watch template" width="100%" /><br/><sub>Add Emby Watch template</sub></td>
-    <td align="center" width="33.33%"><img src="docs/setting-emby-watch-ua.png" alt="Emby Watch UA settings" width="100%" /><br/><sub>Emby Watch UA settings</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%"><img src="docs/auto-registration.png" alt="Add an auto-registration job" width="100%" /><br/><sub>Add an auto-registration job</sub></td>
-    <td align="center" width="33.33%"><img src="docs/custom-job.png" alt="Add a custom job" width="100%" /><br/><sub>Add a custom job</sub></td>
-    <td align="center" width="33.33%"><img src="docs/pass-cf-verification.png" alt="Solving a Cloudflare challenge automatically" width="100%" /><br/><sub>Cloudflare challenge</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%"><img src="docs/web-checkin.png" alt="Web check-in" width="100%" /><br/><sub>Web check-in</sub></td>
-    <td align="center" width="33.33%"><img src="docs/lucky-draw.png" alt="Lucky draw" width="100%" /><br/><sub>Lucky draw</sub></td>
-    <td align="center" width="33.33%"><img src="docs/pass-nmbot.png" alt="pass nmBot verification" width="100%" /><br/><sub>nmBot challenge</sub></td>
-  </tr>
+<table width="100%">  
+  <tr>  
+    <td align="center" colspan="3"><img src="docs/accounts.png" alt="Account configuration" width="100%" />   <sub>Account configuration</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" colspan="3"><img src="docs/jobs.png" alt="Job configuration" width="100%" />   <sub>Job configuration</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="33.33%"><img src="docs/rich_content_logs.png" alt="Rich content logs" width="100%" />   <sub>Rich content logs</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/ai_debugging_console.png" alt="AI debug console" width="100%" />   <sub>AI debug console</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/ai_provider_config.png" alt="AI provider settings" width="100%" />   <sub>AI provider settings</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="33.33%"><img src="docs/template-checkin.png" alt="Add check-in template" width="100%" />   <sub>Add check-in template</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/template-emby-watch.png" alt="Add Emby Watch template" width="100%" />   <sub>Add Emby Watch template</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/setting-emby-watch-ua.png" alt="Emby Watch UA settings" width="100%" />   <sub>Emby Watch UA settings</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="33.33%"><img src="docs/auto-registration.png" alt="Add an auto-registration job" width="100%" />   <sub>Add an auto-registration job</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/custom-job.png" alt="Add a custom job" width="100%" />   <sub>Add a custom job</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/pass-cf-verification.png" alt="Solving a Cloudflare challenge automatically" width="100%" />   <sub>Cloudflare challenge</sub></td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="33.33%"><img src="docs/web-checkin.png" alt="Web check-in" width="100%" />   <sub>Web check-in</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/lucky-draw.png" alt="Lucky draw" width="100%" />   <sub>Lucky draw</sub></td>  
+    <td align="center" width="33.33%"><img src="docs/pass-nmbot.png" alt="pass nmBot verification" width="100%" />   <sub>nmBot challenge</sub></td>  
+  </tr>  
 </table>
 
 ---
+
 
 ### Features
 
@@ -435,7 +442,7 @@ A self-hosted automation tool for managing daily Telegram bot check-ins (签到)
 - **Mobile-friendly** — responsive layout, sidebar collapses to a hamburger menu; tables hide secondary columns on narrow screens; modals pin to the top and use dynamic viewport height to stay clear of browser chrome; job action buttons merge into a single ⋯ button on mobile, opening a bottom action sheet
 - **UI state persistence** — filter selections and column sort order are restored automatically on refresh; login redirects back to the last visited page
 - **Web admin portal** — Vue 3 SPA for managing accounts, jobs, settings, and viewing logs
-- **Persistent storage** — SQLite database, survives restarts and container upgrades
+- **Persistent storage** — MongoDB database, survives restarts and container upgrades. Enter the connection string under *Settings → Database*, or supply it via `MONGODB_URI`
 
 ---
 
@@ -467,18 +474,17 @@ Defaults: port `3000`, database at `/app/data/bemby.db`, timezone UTC. To set a 
 
 ---
 
-
 ### One-click Deploy
 
 Not comfortable with the command line or Docker? Deploy Bemby to a cloud platform in a few clicks — no local tooling required.
 
-> Bemby uses SQLite for storage. Make sure your chosen platform supports a **persistent volume**, otherwise data is lost on every restart.
+> Bemby uses MongoDB for storage. Provide a **persistent MongoDB instance** — a hosted one, or a self-hosted container with a mounted volume — otherwise data is lost on every restart. Enter the connection string under *Settings → Database* after the first boot.
 
 #### Railway *(recommended)*
 
-Railway can deploy directly from the Docker Hub image — no GitHub fork or account connection needed. New accounts get **$5 free credit 1st month** with no credit card required, then you get $1 per month after.
+Railway can deploy directly from the Docker Hub image — no GitHub fork or account connection needed. New accounts get \*\*$5 free credit 1st month\** with no credit card required, then you get $1 per month after.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/bemby?referralCode=o7RbM-&utm_medium=integration&utm_source=template&utm_campaign=generic)
+![Deploy on Railway](https://railway.com/button.svg)
 
 Click the button and follow these steps:
 
@@ -491,6 +497,7 @@ Click the button and follow these steps:
 3. Once deployed, open the service → **Settings** tab → scroll to **Networking → Public Networking** → click **Generate Domain** to get your public URL (e.g. `your-app.up.railway.app`)
 
 ---
+
 
 ### First-time setup
 
@@ -507,25 +514,25 @@ Click the button and follow these steps:
 
 Go to **Jobs** and click **Add Job**. Configure:
 
-| Field                   | Description                                                                          |
-|-------------------------|--------------------------------------------------------------------------------------|
-| Job Name                | Display name for the job                                                             |
-| Job Type                | `Check-in`, `Emby Watch`, or `Custom`                                                |
-| Account                 | Authenticated Telegram account (check-in only)                                       |
-| Bot Username            | Telegram bot handle, with or without `@` (check-in only)                             |
-| Start Command           | Command sent to the bot, default `/start`; supports template placeholders (check-in only) |
-| Check-in Button         | Text to match against the inline keyboard button, default `签到` (check-in only)     |
-| Server URL              | Emby server address, e.g. `https://emby.example.com:443` (Emby Watch only); paste a full URL with protocol and port to auto-fill the fields |
-| Emby Username/Password  | Emby account credentials (Emby Watch only)                                           |
-| Play Duration           | Seconds to simulate playback; actual duration is this value plus 0–10% random extra (Emby Watch only) |
-| Mark as watched         | Mark the episode/movie as watched in Emby after playback ends (default on, Emby Watch only) |
-| Real Watch              | Pull the actual media bytes at real playback pace so the server sees genuine streaming traffic; uses significant download bandwidth (Emby Watch only) |
-| Sequence Play           | Resume from the last position and chain into the next episode when one finishes; only marks an episode watched when it actually finishes (Emby Watch only) |
-| Limit to library        | Library name or index (starting from 1); falls back to the whole server when it can't be matched or has nothing to play (Emby Watch only, optional) |
-| Account (optional)      | Telegram account to send success/failure notifications via (Emby Watch only; leave blank to disable notifications) |
-| Window Start/End        | Daily schedule window in HHMM format, e.g. `1400`–`1600`                            |
-| Run every (days)        | Interval between runs: a number (e.g. `7`) or a range (e.g. `7-15`), where a range picks a random day count each time it schedules |
-| Max Retries             | Number of retry attempts on failure                                                  |
+| Field                  | Description                                                                                                                                                |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Job Name               | Display name for the job                                                                                                                                   |
+| Job Type               | `Check-in`, `Emby Watch`, or `Custom`                                                                                                                      |
+| Account                | Authenticated Telegram account (check-in only)                                                                                                             |
+| Bot Username           | Telegram bot handle, with or without `@` (check-in only)                                                                                                   |
+| Start Command          | Command sent to the bot, default `/start`; supports template placeholders (check-in only)                                                                  |
+| Check-in Button        | Text to match against the inline keyboard button, default `签到` (check-in only)                                                                             |
+| Server URL             | Emby server address, e.g. `https://emby.example.com:443` (Emby Watch only); paste a full URL with protocol and port to auto-fill the fields                |
+| Emby Username/Password | Emby account credentials (Emby Watch only)                                                                                                                 |
+| Play Duration          | Seconds to simulate playback; actual duration is this value plus 0–10% random extra (Emby Watch only)                                                      |
+| Mark as watched        | Mark the episode/movie as watched in Emby after playback ends (default on, Emby Watch only)                                                                |
+| Real Watch             | Pull the actual media bytes at real playback pace so the server sees genuine streaming traffic; uses significant download bandwidth (Emby Watch only)      |
+| Sequence Play          | Resume from the last position and chain into the next episode when one finishes; only marks an episode watched when it actually finishes (Emby Watch only) |
+| Limit to library       | Library name or index (starting from 1); falls back to the whole server when it can't be matched or has nothing to play (Emby Watch only, optional)        |
+| Account (optional)     | Telegram account to send success/failure notifications via (Emby Watch only; leave blank to disable notifications)                                         |
+| Window Start/End       | Daily schedule window in HHMM format, e.g. `1400`–`1600`                                                                                                   |
+| Run every (days)       | Interval between runs: a number (e.g. `7`) or a range (e.g. `7-15`), where a range picks a random day count each time it schedules                         |
+| Max Retries            | Number of retry attempts on failure                                                                                                                        |
 
 The scheduler picks a random time within the window each day, automatically staggered away from other jobs (minimum gap configurable in Settings, default 2 minutes). If the window has already passed when the job is saved, it schedules for the following day.
 
@@ -564,10 +571,10 @@ cd Bemby
 
 On first run `dev.sh` copies `env.example` to `backend/.env` and warns if placeholder values are still set.
 
-| Service  | Default URL                  |
-|----------|------------------------------|
-| Frontend | http://localhost:5173        |
-| Backend  | http://localhost:3000        |
+| Service  | Default URL             |
+| -------- | ----------------------- |
+| Frontend | <http://localhost:5173> |
+| Backend  | <http://localhost:3000> |
 
 Log in with the credentials configured in `backend/.env` (default `admin` / `changeme`).
 
@@ -582,7 +589,10 @@ bemby/
 │       ├── server.ts          -- Express entry point
 │       ├── scheduler.ts       -- Per-job setTimeout scheduler
 │       ├── db/
-│       │   └── database.ts    -- SQLite setup and migrations
+│       │   ├── database.ts    -- data-layer entry point
+│       │   ├── mongo/         -- MongoDB connection, indexes, id sequence, SQLite import
+│       │   ├── bootstrap.ts   -- default settings and start-up data fix-ups
+│       │   └── repos/         -- per-collection read/write repositories
 │       ├── jobs/
 │       │   ├── runner.ts      -- Job dispatcher with retry
 │       │   ├── checkin.ts     -- Telegram MTProto check-in logic

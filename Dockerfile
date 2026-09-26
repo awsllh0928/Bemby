@@ -11,7 +11,12 @@ RUN npm run build
 # the production stage runs, and that stage needs glibc for the browser (see below).
 FROM node:22-bookworm-slim AS backend-builder
 WORKDIR /app
-# python3/make/g++ required to compile better-sqlite3 native addon
+# python3/make/g++ build the native addons: argon2, and better-sqlite3. The latter no longer
+# holds any of Bemby's data -- MongoDB does -- and survives only to read a pre-MongoDB data/
+# bemby.db during the one-off import offered in Settings. It is an optional dependency, so a
+# build that cannot compile it would still produce a working image without that import, but
+# `npm ci` installs optional dependencies by default and so builds it here anyway. Add
+# --omit=optional to the install above to drop it and the toolchain together.
 RUN apt-get update \
  && apt-get install -y --no-install-recommends python3 make g++ \
  && rm -rf /var/lib/apt/lists/*
